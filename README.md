@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# EXP-3 Correlation and regression for data analysis
 # Developed by: Kailash Kumar S
 # Register number: 212223220041
 # Aim : 
